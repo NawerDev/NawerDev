@@ -17,13 +17,8 @@ Translated with www.DeepL.com/Translator (free version)
 
 - **Frontend**: React, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+), bootstrap 5
 - **Mobile**: React Native
-- **Backend**: Symfony, Django, Node.js, Java
+- **Backend**: PHP, Symfony, Python, Django, Node.js, Java
 - **Database**: MariaDB, MySQL, PostgreSQL, SQL
-- **DevOps**: Docker, Apache, Nginx, Git, CI/CD, Postman
-- **Others**: Ubuntu, windows, Obsidian,
-
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## 💻 My Recent Projects
 
